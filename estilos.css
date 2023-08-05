@@ -1,5 +1,5 @@
 img {
-    width: 200px;
+    width: 300px;
     height: auto;
 
 }
@@ -12,17 +12,20 @@ img {
 
 
 .parte {
-    background-color: darkcyan;
+    background-color: midnightblue;
     color: aliceblue;
-    float: left; 
-    width: 50%; 
+    float: left;
+    justify-content: center; 
+    width: 30%; 
     box-sizing: border-box;
     padding: 10px;
+    border: 2px solid #333;
+    text-align: center;
 }
 
 .partes {
     float: left; 
-    width: 50%; 
+    width: 40%; 
     box-sizing: border-box; 
     padding: 10px;
     border: 2px solid #333;
