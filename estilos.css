@@ -1,0 +1,30 @@
+img {
+    width: 200px;
+    height: auto;
+
+}
+
+.curri {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flez;
+    grid-template-columns: 50%, 50%;
+}
+
+
+.parte {
+    background-color: darkcyan;
+    color: aliceblue;
+    float: left; 
+    width: 50%; 
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.partes {
+    float: left; 
+    width: 50%; 
+    box-sizing: border-box; 
+    padding: 10px;
+    border: 2px solid #333;
+}
+
